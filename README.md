@@ -1,1 +1,1 @@
-Capstone Proposal Project Oct 2024
+Capstone Project Proposal Oct 2024
