@@ -1,4 +1,4 @@
-# Predicting EU Housing Prices (Q3 2024) with Machine Learning
+# Predicting EU Housing Prices with Machine Learning
 **Author · Robert Jonjic – CCT College Dublin**
 
 > Capstone Assessment 3 (CA3) – Strategic Thinking module  
